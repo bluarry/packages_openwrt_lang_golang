@@ -92,7 +92,7 @@ BOOTSTRAP_GO_VALID_OS_ARCH:= \
   darwin_386     darwin_amd64 \
   dragonfly_386  dragonfly_amd64 \
   freebsd_386    freebsd_amd64    freebsd_arm \
-  linux_386      linux_amd64      linux_arm \
+  linux_386      linux_amd64      linux_arm linux_arm64\
   netbsd_386     netbsd_amd64     netbsd_arm \
   openbsd_386    openbsd_amd64 \
   plan9_386      plan9_amd64 \
